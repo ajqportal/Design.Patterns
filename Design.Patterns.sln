@@ -11,6 +11,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Behavioral", "Behavioral", 
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Design.Pattern.Creational.AbstractFactory", "Creational\Design.Pattern.Creational.AbstractFactory\Design.Pattern.Creational.AbstractFactory.csproj", "{27EFD9FD-D399-4701-9F3E-3D92505273DA}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Design.Pattern.Creational.FactoryMethod", "Design.Pattern.Creational.FactoryMethod\Design.Pattern.Creational.FactoryMethod.csproj", "{193711AE-76F9-43F4-906C-B94F6497BECF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,12 +23,17 @@ Global
 		{27EFD9FD-D399-4701-9F3E-3D92505273DA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{27EFD9FD-D399-4701-9F3E-3D92505273DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{27EFD9FD-D399-4701-9F3E-3D92505273DA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{193711AE-76F9-43F4-906C-B94F6497BECF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{193711AE-76F9-43F4-906C-B94F6497BECF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{193711AE-76F9-43F4-906C-B94F6497BECF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{193711AE-76F9-43F4-906C-B94F6497BECF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{27EFD9FD-D399-4701-9F3E-3D92505273DA} = {B03E5358-4EFB-477C-918E-49F565345EED}
+		{193711AE-76F9-43F4-906C-B94F6497BECF} = {B03E5358-4EFB-477C-918E-49F565345EED}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {B391FFB7-030B-451C-BB08-05904FFB77B1}
