@@ -12,6 +12,8 @@ namespace Design.Patterns.Structural.Bridge
             RemoteControl remoteControl;
             remoteControl = new RemoteControl(new Television());
             client.PerformRemoteCommand(remoteControl);
+
+
         }
     }
 }
