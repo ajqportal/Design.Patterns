@@ -9,19 +9,19 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Structural", "Structural", 
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Behavioral", "Behavioral", "{D6570D95-D2EE-4EB4-AF8D-EC17087A7033}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Design.Pattern.Creational.AbstractFactory", "Creational\Design.Pattern.Creational.AbstractFactory\Design.Pattern.Creational.AbstractFactory.csproj", "{27EFD9FD-D399-4701-9F3E-3D92505273DA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Design.Patterns.Creational.AbstractFactory", "Creational\Design.Pattern.Creational.AbstractFactory\Design.Patterns.Creational.AbstractFactory.csproj", "{27EFD9FD-D399-4701-9F3E-3D92505273DA}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Design.Pattern.Creational.FactoryMethod", "Creational\Design.Pattern.Creational.FactoryMethod\Design.Pattern.Creational.FactoryMethod.csproj", "{2BD34DAD-003A-48BA-AE5F-76ACE025D61C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Design.Patterns.Creational.FactoryMethod", "Creational\Design.Pattern.Creational.FactoryMethod\Design.Patterns.Creational.FactoryMethod.csproj", "{2BD34DAD-003A-48BA-AE5F-76ACE025D61C}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Design.Pattern.Creational.Builder", "Creational\Design.Pattern.Creational.Builder\Design.Pattern.Creational.Builder.csproj", "{183C8732-1E5C-498C-A3B5-C73C4EE23743}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Design.Patterns.Creational.Builder", "Creational\Design.Pattern.Creational.Builder\Design.Patterns.Creational.Builder.csproj", "{183C8732-1E5C-498C-A3B5-C73C4EE23743}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Design.Pattern.Creational.Prototype", "Creational\Design.Pattern.Creational.Prototype\Design.Pattern.Creational.Prototype.csproj", "{5015AD1B-19F1-4F1D-B9D5-D090E8CF74A6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Design.Patterns.Creational.Prototype", "Creational\Design.Pattern.Creational.Prototype\Design.Patterns.Creational.Prototype.csproj", "{5015AD1B-19F1-4F1D-B9D5-D090E8CF74A6}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Design.Pattern.Creational.Singleton", "Creational\Design.Pattern.Creational.Singleton\Design.Pattern.Creational.Singleton.csproj", "{6EDE311D-293C-4C6D-BEE6-EC8A94981509}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Design.Patterns.Creational.Singleton", "Creational\Design.Pattern.Creational.Singleton\Design.Patterns.Creational.Singleton.csproj", "{6EDE311D-293C-4C6D-BEE6-EC8A94981509}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Design.Pattern.Structural.Adapter", "Structural\Design.Pattern.Structural.Adapter\Design.Pattern.Structural.Adapter.csproj", "{5725B4B2-459F-4F7F-B273-712DE0832526}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Design.Patterns.Structural.Adapter", "Structural\Design.Pattern.Structural.Adapter\Design.Patterns.Structural.Adapter.csproj", "{5725B4B2-459F-4F7F-B273-712DE0832526}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Design.Pattern.Structural.Bridge", "Structural\Design.Pattern.Structural.Bridge\Design.Pattern.Structural.Bridge.csproj", "{D015278A-A760-4A4E-8023-77CCCD91BC9D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Design.Patterns.Structural.Bridge", "Structural\Design.Pattern.Structural.Bridge\Design.Patterns.Structural.Bridge.csproj", "{D015278A-A760-4A4E-8023-77CCCD91BC9D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

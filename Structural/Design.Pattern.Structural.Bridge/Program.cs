@@ -1,8 +1,8 @@
-﻿using Design.Pattern.Structural.Bridge.Abstracts;
-using Design.Pattern.Structural.Bridge.Clients;
-using Design.Pattern.Structural.Bridge.Models;
+﻿using Design.Patterns.Structural.Bridge.Abstracts;
+using Design.Patterns.Structural.Bridge.Clients;
+using Design.Patterns.Structural.Bridge.Models;
 
-namespace Design.Pattern.Structural.Bridge
+namespace Design.Patterns.Structural.Bridge
 {
     class Program
     {

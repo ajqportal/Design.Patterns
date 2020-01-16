@@ -1,7 +1,7 @@
 ﻿using System;
-using Design.Pattern.Creational.Singleton.Businesses;
+using Design.Patterns.Creational.Singleton.Businesses;
 
-namespace Design.Pattern.Creational.Singleton
+namespace Design.Patterns.Creational.Singleton
 {
     class Program
     {

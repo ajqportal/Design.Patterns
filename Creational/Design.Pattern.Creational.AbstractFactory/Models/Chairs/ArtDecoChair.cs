@@ -1,6 +1,6 @@
-﻿using Design.Pattern.Creational.AbstractFactory.Interfaces;
+﻿using Design.Patterns.Creational.AbstractFactory.Interfaces;
 
-namespace Design.Pattern.Creational.AbstractFactory.Models.Chairs
+namespace Design.Patterns.Creational.AbstractFactory.Models.Chairs
 {
     public class ArtDecoChair : IChair
     {

@@ -1,4 +1,4 @@
-﻿namespace Design.Pattern.Creational.Prototype.Businesses
+﻿namespace Design.Patterns.Creational.Prototype.Businesses
 {
     public class IdInfo
     {

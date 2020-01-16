@@ -1,9 +1,9 @@
 ﻿using System.IO;
 using System.Xml;
-using Design.Pattern.Structural.Adapter.Interfaces;
+using Design.Patterns.Structural.Adapter.Interfaces;
 using Newtonsoft.Json;
 
-namespace Design.Pattern.Structural.Adapter.Businesses
+namespace Design.Patterns.Structural.Adapter.Businesses
 {
     public class JsonToXmlConverter : IConverter
     {

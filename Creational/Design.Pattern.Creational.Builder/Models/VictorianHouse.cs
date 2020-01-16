@@ -1,6 +1,6 @@
-﻿using Design.Pattern.Creational.Builder.Models.Parts;
+﻿using Design.Patterns.Creational.Builder.Models.Parts;
 
-namespace Design.Pattern.Creational.Builder.Models
+namespace Design.Patterns.Creational.Builder.Models
 {
     public class VictorianHouse
     {

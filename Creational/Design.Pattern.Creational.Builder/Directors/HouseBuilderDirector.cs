@@ -1,6 +1,6 @@
-﻿using Design.Pattern.Creational.Builder.Interfaces;
+﻿using Design.Patterns.Creational.Builder.Interfaces;
 
-namespace Design.Pattern.Creational.Builder.Directors
+namespace Design.Patterns.Creational.Builder.Directors
 {
     public class HouseBuilderDirector
     {

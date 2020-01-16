@@ -1,7 +1,7 @@
 ﻿using System;
-using Design.Pattern.Structural.Bridge.Interfaces;
+using Design.Patterns.Structural.Bridge.Interfaces;
 
-namespace Design.Pattern.Structural.Bridge.Models
+namespace Design.Patterns.Structural.Bridge.Models
 {
     public class Television: IDevices
     {

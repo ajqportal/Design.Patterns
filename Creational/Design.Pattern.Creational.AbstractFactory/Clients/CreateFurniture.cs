@@ -1,8 +1,8 @@
-﻿using Design.Pattern.Creational.AbstractFactory.Factories;
-using Design.Pattern.Creational.AbstractFactory.Interfaces;
+﻿using Design.Patterns.Creational.AbstractFactory.Factories;
+using Design.Patterns.Creational.AbstractFactory.Interfaces;
 using System;
 
-namespace Design.Pattern.Creational.AbstractFactory.Clients
+namespace Design.Patterns.Creational.AbstractFactory.Clients
 {
     public class CreateFurniture
     {

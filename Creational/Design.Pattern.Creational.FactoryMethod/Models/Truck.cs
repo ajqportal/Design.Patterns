@@ -1,7 +1,7 @@
 ﻿using System;
-using Design.Pattern.Creational.FactoryMethod.Interfaces;
+using Design.Patterns.Creational.FactoryMethod.Interfaces;
 
-namespace Design.Pattern.Creational.FactoryMethod.Models
+namespace Design.Patterns.Creational.FactoryMethod.Models
 {
     public class Truck: ITransport
     {

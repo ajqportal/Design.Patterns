@@ -1,4 +1,4 @@
-﻿namespace Design.Pattern.Structural.Bridge.Models
+﻿namespace Design.Patterns.Structural.Bridge.Models
 {
     class Radio
     {

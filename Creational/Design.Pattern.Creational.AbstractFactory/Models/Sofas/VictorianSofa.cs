@@ -1,6 +1,6 @@
-﻿using Design.Pattern.Creational.AbstractFactory.Interfaces;
+﻿using Design.Patterns.Creational.AbstractFactory.Interfaces;
 
-namespace Design.Pattern.Creational.AbstractFactory.Models.Sofas
+namespace Design.Patterns.Creational.AbstractFactory.Models.Sofas
 {
     public class VictorianSofa : ISofa
     {

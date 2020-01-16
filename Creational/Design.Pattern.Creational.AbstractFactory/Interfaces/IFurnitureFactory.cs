@@ -1,4 +1,4 @@
-﻿namespace Design.Pattern.Creational.AbstractFactory.Interfaces
+﻿namespace Design.Patterns.Creational.AbstractFactory.Interfaces
 {
     public interface IFurnitureFactory
     {

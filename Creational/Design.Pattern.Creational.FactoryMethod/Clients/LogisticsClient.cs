@@ -1,8 +1,8 @@
 ﻿using System;
-using Design.Pattern.Creational.FactoryMethod.Factories;
-using Design.Pattern.Creational.FactoryMethod.Interfaces;
+using Design.Patterns.Creational.FactoryMethod.Factories;
+using Design.Patterns.Creational.FactoryMethod.Interfaces;
 
-namespace Design.Pattern.Creational.FactoryMethod.Clients
+namespace Design.Patterns.Creational.FactoryMethod.Clients
 {
     public class LogisticsClient
     {

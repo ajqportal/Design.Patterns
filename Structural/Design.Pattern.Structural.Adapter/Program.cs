@@ -1,9 +1,9 @@
 ﻿using System;
-using Design.Pattern.Structural.Adapter.Adapters;
-using Design.Pattern.Structural.Adapter.Businesses;
-using Design.Pattern.Structural.Adapter.Interfaces;
+using Design.Patterns.Structural.Adapter.Adapters;
+using Design.Patterns.Structural.Adapter.Businesses;
+using Design.Patterns.Structural.Adapter.Interfaces;
 
-namespace Design.Pattern.Structural.Adapter
+namespace Design.Patterns.Structural.Adapter
 {
     class Program
     {

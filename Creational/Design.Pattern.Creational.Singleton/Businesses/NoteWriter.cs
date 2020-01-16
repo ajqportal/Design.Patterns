@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Dynamic;
 
-namespace Design.Pattern.Creational.Singleton.Businesses
+namespace Design.Patterns.Creational.Singleton.Businesses
 {
     /// <summary>
     /// Thread safety singleton with Fully Lazy Type Instance!

@@ -1,7 +1,7 @@
 ﻿using System;
-using Design.Pattern.Structural.Bridge.Abstracts;
+using Design.Patterns.Structural.Bridge.Abstracts;
 
-namespace Design.Pattern.Structural.Bridge.Clients
+namespace Design.Patterns.Structural.Bridge.Clients
 {
     public class RemoteClient
     {

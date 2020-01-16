@@ -1,4 +1,4 @@
-﻿namespace Design.Pattern.Creational.FactoryMethod.Interfaces
+﻿namespace Design.Patterns.Creational.FactoryMethod.Interfaces
 {
     public interface ITransport
     {

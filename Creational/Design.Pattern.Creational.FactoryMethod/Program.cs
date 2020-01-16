@@ -1,7 +1,7 @@
 ﻿using System;
-using Design.Pattern.Creational.FactoryMethod.Clients;
+using Design.Patterns.Creational.FactoryMethod.Clients;
 
-namespace Design.Pattern.Creational.FactoryMethod
+namespace Design.Patterns.Creational.FactoryMethod
 {
     class Program
     {

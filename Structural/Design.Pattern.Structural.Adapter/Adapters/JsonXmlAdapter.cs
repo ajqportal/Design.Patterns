@@ -1,7 +1,7 @@
-﻿using Design.Pattern.Structural.Adapter.Businesses;
-using Design.Pattern.Structural.Adapter.Interfaces;
+﻿using Design.Patterns.Structural.Adapter.Businesses;
+using Design.Patterns.Structural.Adapter.Interfaces;
 
-namespace Design.Pattern.Structural.Adapter.Adapters
+namespace Design.Patterns.Structural.Adapter.Adapters
 {
     public class JsonXmlAdapter : IDataConverter
     {

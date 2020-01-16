@@ -1,9 +1,9 @@
-﻿using Design.Pattern.Creational.AbstractFactory.Interfaces;
-using Design.Pattern.Creational.AbstractFactory.Models.Chairs;
-using Design.Pattern.Creational.AbstractFactory.Models.CoffeeTables;
-using Design.Pattern.Creational.AbstractFactory.Models.Sofas;
+﻿using Design.Patterns.Creational.AbstractFactory.Interfaces;
+using Design.Patterns.Creational.AbstractFactory.Models.Chairs;
+using Design.Patterns.Creational.AbstractFactory.Models.CoffeeTables;
+using Design.Patterns.Creational.AbstractFactory.Models.Sofas;
 
-namespace Design.Pattern.Creational.AbstractFactory.Factories
+namespace Design.Patterns.Creational.AbstractFactory.Factories
 {
     public class ArtDecoFurnitureFactory : IFurnitureFactory
     {

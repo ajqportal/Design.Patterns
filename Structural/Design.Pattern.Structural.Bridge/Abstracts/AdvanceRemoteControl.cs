@@ -1,7 +1,7 @@
 ﻿using System;
-using Design.Pattern.Structural.Bridge.Interfaces;
+using Design.Patterns.Structural.Bridge.Interfaces;
 
-namespace Design.Pattern.Structural.Bridge.Abstracts
+namespace Design.Patterns.Structural.Bridge.Abstracts
 {
     public class AdvanceRemoteControl : RemoteControl
     {

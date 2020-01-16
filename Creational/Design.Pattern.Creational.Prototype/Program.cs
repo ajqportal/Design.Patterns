@@ -1,8 +1,8 @@
 ﻿using System;
-using Design.Pattern.Creational.Prototype.Businesses;
-using Design.Pattern.Creational.Prototype.Models;
+using Design.Patterns.Creational.Prototype.Businesses;
+using Design.Patterns.Creational.Prototype.Models;
 
-namespace Design.Pattern.Creational.Prototype
+namespace Design.Patterns.Creational.Prototype
 {
     class Program
     {

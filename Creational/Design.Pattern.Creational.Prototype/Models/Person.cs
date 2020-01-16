@@ -1,7 +1,7 @@
 ﻿using System;
-using Design.Pattern.Creational.Prototype.Businesses;
+using Design.Patterns.Creational.Prototype.Businesses;
 
-namespace Design.Pattern.Creational.Prototype.Models
+namespace Design.Patterns.Creational.Prototype.Models
 {
     public class Person
     {

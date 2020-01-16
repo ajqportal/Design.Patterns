@@ -1,4 +1,4 @@
-﻿namespace Design.Pattern.Creational.Builder.Interfaces
+﻿namespace Design.Patterns.Creational.Builder.Interfaces
 {
     public interface IHouseBuilder
     {

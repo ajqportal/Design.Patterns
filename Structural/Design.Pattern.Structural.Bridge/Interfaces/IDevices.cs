@@ -1,4 +1,4 @@
-﻿namespace Design.Pattern.Structural.Bridge.Interfaces
+﻿namespace Design.Patterns.Structural.Bridge.Interfaces
 {
     public interface IDevices
     {

@@ -1,8 +1,8 @@
 ﻿using System;
-using Design.Pattern.Creational.FactoryMethod.Interfaces;
-using Design.Pattern.Creational.FactoryMethod.Models;
+using Design.Patterns.Creational.FactoryMethod.Interfaces;
+using Design.Patterns.Creational.FactoryMethod.Models;
 
-namespace Design.Pattern.Creational.FactoryMethod.Factories
+namespace Design.Patterns.Creational.FactoryMethod.Factories
 {
     public class RoadLogistics : ILogistics
     {

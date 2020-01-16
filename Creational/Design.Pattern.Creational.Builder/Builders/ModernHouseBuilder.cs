@@ -1,8 +1,8 @@
-﻿using Design.Pattern.Creational.Builder.Interfaces;
-using Design.Pattern.Creational.Builder.Models;
-using Design.Pattern.Creational.Builder.Models.Parts;
+﻿using Design.Patterns.Creational.Builder.Interfaces;
+using Design.Patterns.Creational.Builder.Models;
+using Design.Patterns.Creational.Builder.Models.Parts;
 
-namespace Design.Pattern.Creational.Builder.Builders
+namespace Design.Patterns.Creational.Builder.Builders
 {
     public class ModernHouseBuilder : IHouseBuilder
     {

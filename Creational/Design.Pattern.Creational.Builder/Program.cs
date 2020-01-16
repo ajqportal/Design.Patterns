@@ -1,8 +1,8 @@
 ﻿using System;
-using Design.Pattern.Creational.Builder.Builders;
-using Design.Pattern.Creational.Builder.Directors;
+using Design.Patterns.Creational.Builder.Builders;
+using Design.Patterns.Creational.Builder.Directors;
 
-namespace Design.Pattern.Creational.Builder
+namespace Design.Patterns.Creational.Builder
 {
     class Program
     {

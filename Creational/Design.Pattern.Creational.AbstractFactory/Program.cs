@@ -1,4 +1,4 @@
-﻿using Design.Pattern.Creational.AbstractFactory.Clients;
+﻿using Design.Patterns.Creational.AbstractFactory.Clients;
 using System;
 
 namespace Design.Patterns.Abstract.Factory

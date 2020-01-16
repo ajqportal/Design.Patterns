@@ -1,4 +1,4 @@
-﻿namespace Design.Pattern.Structural.Adapter.Interfaces
+﻿namespace Design.Patterns.Structural.Adapter.Interfaces
 {
     public interface IConverter
     {

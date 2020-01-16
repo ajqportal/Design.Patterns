@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace Design.Pattern.Creational.Builder.Models.Parts
+namespace Design.Patterns.Creational.Builder.Models.Parts
 {
     public class Floor
     {
